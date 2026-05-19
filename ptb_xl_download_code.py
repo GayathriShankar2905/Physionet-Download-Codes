@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 
 # PhysioNet Credentials
-PHYSIONET_USERNAME = "pcmjs-gayathri"
-PHYSIONET_API_KEY = "parabola29052005"
+PHYSIONET_USERNAME = "your_username"
+PHYSIONET_API_KEY = "your_password"
 
 # Save dataset to Desktop in "ptb_xl_dataset" folder
 DEST_DIR = r"D:\ptb-xl"
